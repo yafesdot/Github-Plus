@@ -2,8 +2,12 @@
     "manifest_version": 2,
     "name": "Github Plus",
     "version": "0.1",
-  
+
     "permissions": [
+    ],
+    "optional_permissions": [
+    ],
+    "host_permissions": [
     ],
   
     "browser_action": {
