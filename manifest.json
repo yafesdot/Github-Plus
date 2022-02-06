@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Github Plus",
+    "version": "0.1",
+  
+    "permissions": [
+    ],
+  
+    "browser_action": {
+      "default_icon": "image/icon.png",
+      "default_popup": "html/popup.html",
+       "default_title": "Ease your Github usage!"
+    }
+}
